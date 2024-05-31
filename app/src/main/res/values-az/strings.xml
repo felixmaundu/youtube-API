@@ -1,0 +1,201 @@
+<resources>
+    <string name="app_name">Habitube</string>
+    <string name="app_share">Habitube tətbiqi vasitəsilə göndərilib\n</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Ana səhifə</string>
+    <string name="nav_discover">Kəşf et</string>
+    <string name="nav_library">Kitabxana</string>
+    <string name="nav_settings">Parametrlər</string>
+
+    <!-- Home Screen -->
+    <string name="text_upcoming">Qarşıdan gələn</string>
+    <string name="text_trending">Trend</string>
+    <string name="text_air_today">Yeni çıxan</string>
+    <string name="text_search">Axtarış</string>
+
+    <!-- Movie/TV Show Screens -->
+    <string name="text_rating">Reytinq</string>
+    <string name="text_director">Rejissor</string>
+    <string name="text_runtime">Surəklilik</string>
+    <string name="text_episodes">Epizodlar</string>
+    <string name="text_minutes">dəqiqə</string>
+    <string name="text_videos">Videolar</string>
+    <string name="text_description">Təsvir</string>
+    <string name="text_genres">Janrlar</string>
+    <string name="text_seasons">Sezonlar</string>
+    <string name="text_details">Təfərrüatlar</string>
+    <string name="text_budget">Büdcə</string>
+    <string name="text_release_date">Buraxılış günü</string>
+    <string name="text_status">Status</string>
+    <string name="text_revenue">Gəlir</string>
+    <string name="text_spoken_languages">Dillər</string>
+    <string name="text_original_title">Orijinal ad</string>
+    <string name="text_cast">Aktyorlar</string>
+    <string name="text_crew">Komanda</string>
+    <string name="text_similar">Oxşar</string>
+
+    <!-- Person Screen -->
+    <string name="text_birth_place">Doğum yeri</string>
+    <string name="text_known_for">Tanınır:</string>
+    <string name="text_biography">Bioqrafiya</string>
+    <string name="text_person_acting">Aktyorluq</string>
+    <string name="text_person_crew">Komanda</string>
+
+    <!-- Search Screen -->
+    <string name="text_tab_multi">Ümumi</string>
+    <string name="text_tab_movie">Filmlər</string>
+    <string name="text_tab_show">Şoular</string>
+    <string name="text_tab_person">Şəxslər</string>
+
+    <!-- Library Screen -->
+    <string name="text_watched">Baxılıb</string>
+    <string name="text_planning">Planlaşdırılıb</string>
+    <string name="text_full_info">Tam məlumatı aç</string>
+    <string name="text_remove_watched">Baxılanlardan silmək</string>
+    <string name="text_remove_planning">Planlaşdırmadan silmək</string>
+    <string name="text_already_watched">Artıq baxılıb</string>
+    <string name="text_empty_list">Boş siyahı</string>
+    <string name="text_my_rating">Mənim reytinqim</string>
+
+    <!-- Settings Screen -->
+    <string name="text_account">Sinxronizasiya</string>
+    <string name="text_sign_in">Google ilə daxil olun</string>
+    <string name="text_general">Ümumi</string>
+    <string name="text_content_language">Məzmun dili</string>
+    <string name="text_language">Dil</string>
+    <string name="text_sort">Sıralama</string>
+    <string name="text_library">Saxlama</string>
+    <string name="text_watched_movies">Baxılan filmlər</string>
+    <string name="text_watched_shows">Baxılan şoular</string>
+    <string name="text_storage">Yaddaş</string>
+    <string name="text_adult_title">Böyüklər üçün məzmun</string>
+    <string name="text_adult_description">Axtarış nəticələrində böyüklər üçün məzmunu görmək imkanı</string>
+    <string name="text_about">Haqqında</string>
+    <string name="text_app_version">Proqram Versiyası</string>
+    <string name="text_contact_me">Əlaqə</string>
+    <string name="text_credits">Təşəkkürlər</string>
+    <string name="text_credits_description">App Icon made by www.instagram.com/@ok__die\n\nIcons made by www.flaticon.com/authors/gariebaldy and www.flaticon.com/authors/dinosoftlabs\n\nAstronaut - Light Theme by musa adanur at lottiefiles.com\nTumbleweed Rolling by Muhammad Hazwan Bin Mohd Hanizul at lottiefiles.com\nLoading Abstract by jignesh gajjar at lottiefiles.com\nGreen connection by Davi Dupin at lottiefiles.com</string>
+    <string name="text_info">Məlumat</string>
+    <string name="text_privacy">Gizlilik Siyasəti</string>
+    <string name="text_terms">Xidmət Şərtləri</string>
+    <string name="text_licenses">Açıq mənbə lisenziyaları</string>
+    <string name="text_log_out">Çıxış</string>
+    <string name="text_content_warning">Xəbərdarlıq!\nİngilis dilindən başqa bir dildən istifadə edərək daha az axtarış nəticəsi əldə edəcəksiniz.</string>
+
+    <!-- Discover Screen -->
+    <string name="text_discover">Axtar</string>
+    <string name="text_sort_popularity_desc">Populyarlıq (Azalan)</string>
+    <string name="text_sort_popularity_asc">Populyarlıq (Artan)</string>
+    <string name="text_sort_date_desc">Tarix (Azalan)</string>
+    <string name="text_sort_date_asc">Tarix (Artan)</string>
+    <string name="text_sort_revenue_desc">Gəlir (Azalan)</string>
+    <string name="text_sort_revenue_asc">Gəlir (Artan)</string>
+    <string name="text_sort_name_desc">Ad (Azalan)</string>
+    <string name="text_sort_name_asc">Ad (Artan)</string>
+    <string name="text_sort_vote_desc">Reytinq (Azalan)</string>
+    <string name="text_sort_vote_asc">Reytinq (Artan)</string>
+    <string name="text_years_range">İllər</string>
+    <string name="text_rating_range">Reytinqlər</string>
+    <string name="text_networks">Platformalar</string>
+    <string name="text_nothing_found">Heç nə tapılmadı</string>
+
+    <!-- Common -->
+    <string name="text_show_less">Daha az göstər</string>
+    <string name="text_show_more">Daha çox göstər</string>
+    <string name="text_add_rating">Öz reytinqim</string>
+    <string name="text_rated">%1$s/10</string>
+    <string name="text_planning_watch">Sonra</string>
+    <string name="text_movies">Filmlər</string>
+    <string name="text_shows">Şoular</string>
+    <string name="text_selected">Seçilib</string>
+    <string name="text_cancel">Ləğv et</string>
+    <string name="text_delete">Sil</string>
+    <string name="text_offline">Siz oflaynız</string>
+    <string name="text_offline_description">Şəbəkəyə girişi yoxlayın\nWi-Fi-a yenidən qoşulun</string>
+    <string name="text_refresh_button">Təzələ</string>
+
+    <!-- Storage -->
+    <string name="text_delete_watched_movies">Baxılan Filmləri silmək</string>
+    <string name="text_delete_watched_shows">Baxılan Şouları silmək</string>
+    <string name="text_delete_planned_movies">Planlaşdırılan Filmlərini silmək</string>
+    <string name="text_delete_planned_shows">Planlaşdırılan Şouları silmək</string>
+    <string name="text_delete_all">Bütün Filmləri və Şouları silmək</string>
+    <string name="text_clear_cache">Keşi təmizləmək</string>
+    <string name="text_storage_dialog_title">Silinir…</string>
+    <string name="text_storage_dialog_description">Silmək istədiyinizə əminsiniz?</string>
+
+    <!-- Sort by -->
+    <string name="text_recently_added">Axrıncı əlavə edilən</string>
+    <string name="text_added_first">Əvvəlcə əlavə edilən</string>
+    <string name="text_sort_title">Ad</string>
+    <string name="text_sort_rating">Reytinq</string>
+    <string name="text_release_desc">Buraxılış günü (Azalan)</string>
+    <string name="text_release_asc">Buraxılış günü (Artan)</string>
+
+    <!-- What's new -->
+    <string name="text_update_title">Habitube 2.0 burada!</string>
+    <string name="text_update_description">[Dizayn]\n• Bütün istifadəçi interfeysini sıfırdan yaradılıb\n• Daha çox yer, daha çox xoşbəxtlik :)\n\n\n[Davamlılıq]\n• Bu yeniləmədən sonra daha çox yeni xüsusiyyətlər olacaq!</string>
+    <string name="text_update_button">Baxmaq!</string>
+
+    <!-- Languages -->
+    <string name="text_lang_automatic">Automatic</string>
+    <string name="text_lang_english">İngilis dili</string>
+    <string name="text_lang_azerbaijani">Azərbaycan dili</string>
+    <string name="text_lang_spanish">İspan dili</string>
+    <string name="text_lang_french">Fransız dili</string>
+    <string name="text_lang_russian">Rus dili</string>
+
+    <!-- Genres -->
+    <string name="text_genres_action">Döyüş</string>
+    <string name="text_genres_adventure">Macəra</string>
+    <string name="text_genres_action_adventure">Döyüş &amp; Macəra</string>
+    <string name="text_genres_animation">Animasiya</string>
+    <string name="text_genres_comedy">Komediya</string>
+    <string name="text_genres_crime">Kriminal</string>
+    <string name="text_genres_documentary">Sənədli</string>
+    <string name="text_genres_drama">Dram</string>
+    <string name="text_genres_family">Ailə</string>
+    <string name="text_genres_fantasy">Fantastika</string>
+    <string name="text_genres_history">Tarix</string>
+    <string name="text_genres_horror">Dəhşət</string>
+    <string name="text_genres_music">Müzikl</string>
+    <string name="text_genres_mystery">Sirr</string>
+    <string name="text_genres_romance">Romantika</string>
+    <string name="text_genres_scifi">Elmi fantastika</string>
+    <string name="text_genres_scifi_fantasy">Fantastika</string>
+    <string name="text_genres_tv_movie">Televiziya filmi</string>
+    <string name="text_genres_thriller">Triller</string>
+    <string name="text_genres_war">Müharibə</string>
+    <string name="text_genres_war_politics">Müharibə</string>
+    <string name="text_genres_western">Qərb</string>
+    <string name="text_genres_kids">Uşaqlar</string>
+    <string name="text_genres_news">Xəbərlər</string>
+    <string name="text_genres_reality">Reallıq</string>
+    <string name="text_genres_soap">Sabun opera</string>
+    <string name="text_genres_talk">Danışıq</string>
+
+    <!-- Themes -->
+    <string name="text_theme">Görünüş</string>
+    <string name="theme_classic">Klassik</string>
+    <string name="theme_classic_full">Klassik (Gündüz/Gecə)</string>
+    <string name="theme_amoled">Amoled</string>
+    <string name="theme_arctic">Arktik Mavi</string>
+    <string name="theme_netflix">Netfliks</string>
+    <string name="theme_cyberpunk">Kiberpank</string>
+    <string name="theme_cyberpunk_full">Kiberpank (Gündüz/Gecə)</string>
+
+    <!-- Months -->
+    <string name="month_1">Yan</string>
+    <string name="month_2">Fev</string>
+    <string name="month_3">Mar</string>
+    <string name="month_4">Apr</string>
+    <string name="month_5">May</string>
+    <string name="month_6">İyun</string>
+    <string name="month_7">İyul</string>
+    <string name="month_8">Avq</string>
+    <string name="month_9">Sen</string>
+    <string name="month_10">Okt</string>
+    <string name="month_11">Noy</string>
+    <string name="month_12">Dek</string>
+</resources>
